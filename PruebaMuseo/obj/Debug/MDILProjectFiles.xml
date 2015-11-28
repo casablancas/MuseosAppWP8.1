@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <XAPFiles>
+    <File>resources.pri</File>
+    <File>PruebaMuseo.dll</File>
+    <File>Assets\AlignmentGrid.png</File>
+    <File>Assets\ApplicationIcon.png</File>
+    <File>Assets\BadgeLogo.png</File>
+    <File>Assets\Tiles\Iconos\facebook.png</File>
+    <File>Assets\HermanosSerdan.png</File>
+    <File>Assets\Tiles\Iconos\instagram.png</File>
+    <File>Assets\Tiles\Iconos\Logo.png</File>
+    <File>Assets\Tiles\Iconos\marker1.png</File>
+    <File>Assets\Tiles\ImagenesArte\barrio_artista.jpg</File>
+    <File>Assets\Tiles\ImagenesArte\complejo_hc9dgu.jpg</File>
+    <File>Assets\Tiles\ImagenesArte\fototeca_ywz6wh.jpg</File>
+    <File>Assets\Tiles\ImagenesArte\galeria_arte_palacio.jpg</File>
+    <File>Assets\Tiles\ImagenesArte\museAmparo.jpg</File>
+    <File>Assets\Tiles\Iconos\Museoa-02.jpg</File>
+    <File>Assets\Tiles\Iconos\Museos Archivos 01-05.png</File>
+    <File>Assets\Tiles\Iconos\Museos Archivos 01-06.png</File>
+    <File>Assets\Tiles\Iconos\Museos Archivos 01-12.png</File>
+    <File>Assets\Tiles\Iconos\phone.png</File>
+    <File>Assets\planetario.jpg</File>
+    <File>Assets\SplashScreen.png</File>
+    <File>Assets\SquareTile150x150.png</File>
+    <File>Assets\SquareTile71x71.png</File>
+    <File>Assets\StoreLogo.png</File>
+    <File>Assets\Tiles\ImagenesArte\tec_fvitvm.jpg</File>
+    <File>Assets\Tiles\ImagenesInteractivo\imagina_g8x20s.jpg</File>
+    <File>Assets\Tiles\ImagenesInteractivo\planetario_qz2oko.jpg</File>
+    <File>Assets\Tiles\ImagenesInteractivo\talavera_uamv9z.jpg</File>
+    <File>Assets\Tiles\ImagenesInteractivo\viviente_sszzy9.jpg</File>
+    <File>Assets\Tiles\MuseosHistoria\HermanosSerdan_cwhp4k.png</File>
+    <File>Assets\Tiles\Iconos\twitter.png</File>
+    <File>Assets\WideLogo.png</File>
+    <File>Assets\Tiles\FlipCycleTileLarge.png</File>
+    <File>Assets\Tiles\FlipCycleTileMedium.png</File>
+    <File>Assets\Tiles\FlipCycleTileSmall.png</File>
+    <File>Assets\Tiles\IconicTileMediumLarge.png</File>
+    <File>Assets\Tiles\IconicTileSmall.png</File>
+    <File>Assets\Tiles\Iconos\www.png</File>
+    <File>barrio_artista.jpg</File>
+    <File>complejo_hc9dgu.jpg</File>
+    <File>fototeca_ywz6wh.jpg</File>
+    <File>galeria_arte_palacio.jpg</File>
+    <File>HermanosSerdan_cwhp4k.png</File>
+    <File>AppManifest.xaml</File>
+    <File>icon.png</File>
+    <File>WMAppManifest.xml</File>
+    <File>AppxManifest.xml</File>
+  </XAPFiles>
+  <APPXFiles />
+</Files>

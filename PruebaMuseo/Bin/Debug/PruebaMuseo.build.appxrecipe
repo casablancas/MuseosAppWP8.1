@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-B3IGHP0</Machine>
+    <WindowsUser>Alejandro</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>41329e98-4d90-4636-8c25-6e77dd0a2f85</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Bin\Debug\PruebaMuseo.dll">
+      <PackagePath>PruebaMuseo.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\Iconos\facebook.png">
+      <PackagePath>Assets\Tiles\Iconos\facebook.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\HermanosSerdan.png">
+      <PackagePath>Assets\HermanosSerdan.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\Iconos\instagram.png">
+      <PackagePath>Assets\Tiles\Iconos\instagram.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\Iconos\Logo.png">
+      <PackagePath>Assets\Tiles\Iconos\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\Iconos\marker1.png">
+      <PackagePath>Assets\Tiles\Iconos\marker1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\Iconos\Museos Archivos 01-05.png">
+      <PackagePath>Assets\Tiles\Iconos\Museos Archivos 01-05.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\Iconos\Museos Archivos 01-06.png">
+      <PackagePath>Assets\Tiles\Iconos\Museos Archivos 01-06.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\Iconos\Museos Archivos 01-12.png">
+      <PackagePath>Assets\Tiles\Iconos\Museos Archivos 01-12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\Iconos\phone.png">
+      <PackagePath>Assets\Tiles\Iconos\phone.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\MuseosHistoria\HermanosSerdan_cwhp4k.png">
+      <PackagePath>Assets\Tiles\MuseosHistoria\HermanosSerdan_cwhp4k.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\Iconos\twitter.png">
+      <PackagePath>Assets\Tiles\Iconos\twitter.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\Iconos\www.png">
+      <PackagePath>Assets\Tiles\Iconos\www.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\HermanosSerdan_cwhp4k.png">
+      <PackagePath>HermanosSerdan_cwhp4k.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\icon.png">
+      <PackagePath>icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\ImagenesArte\barrio_artista.jpg">
+      <PackagePath>Assets\Tiles\ImagenesArte\barrio_artista.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\ImagenesArte\complejo_hc9dgu.jpg">
+      <PackagePath>Assets\Tiles\ImagenesArte\complejo_hc9dgu.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\ImagenesArte\fototeca_ywz6wh.jpg">
+      <PackagePath>Assets\Tiles\ImagenesArte\fototeca_ywz6wh.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\ImagenesArte\galeria_arte_palacio.jpg">
+      <PackagePath>Assets\Tiles\ImagenesArte\galeria_arte_palacio.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\ImagenesArte\museAmparo.jpg">
+      <PackagePath>Assets\Tiles\ImagenesArte\museAmparo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\Iconos\Museoa-02.jpg">
+      <PackagePath>Assets\Tiles\Iconos\Museoa-02.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\planetario.jpg">
+      <PackagePath>Assets\planetario.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\ImagenesArte\tec_fvitvm.jpg">
+      <PackagePath>Assets\Tiles\ImagenesArte\tec_fvitvm.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\ImagenesInteractivo\imagina_g8x20s.jpg">
+      <PackagePath>Assets\Tiles\ImagenesInteractivo\imagina_g8x20s.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\ImagenesInteractivo\planetario_qz2oko.jpg">
+      <PackagePath>Assets\Tiles\ImagenesInteractivo\planetario_qz2oko.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\ImagenesInteractivo\talavera_uamv9z.jpg">
+      <PackagePath>Assets\Tiles\ImagenesInteractivo\talavera_uamv9z.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Assets\Tiles\ImagenesInteractivo\viviente_sszzy9.jpg">
+      <PackagePath>Assets\Tiles\ImagenesInteractivo\viviente_sszzy9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\barrio_artista.jpg">
+      <PackagePath>barrio_artista.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\complejo_hc9dgu.jpg">
+      <PackagePath>complejo_hc9dgu.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\fototeca_ywz6wh.jpg">
+      <PackagePath>fototeca_ywz6wh.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\galeria_arte_palacio.jpg">
+      <PackagePath>galeria_arte_palacio.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

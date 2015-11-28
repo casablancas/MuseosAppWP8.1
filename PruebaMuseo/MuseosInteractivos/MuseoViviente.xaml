@@ -1,0 +1,109 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="PruebaMuseo.MuseosInteractivos.MuseoViviente"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Canvas HorizontalAlignment="Left" Height="232" Grid.Row="1" VerticalAlignment="Top" Width="480">
+            <Canvas.Background>
+                <ImageBrush Stretch="Fill" ImageSource="/Assets/Tiles/ImagenesInteractivo/viviente_sszzy9.jpg"/>
+            </Canvas.Background>
+            <TextBlock x:Name="textBlock2" Canvas.Left="10" TextWrapping="Wrap" Canvas.Top="176" FontSize="34.667" FontFamily="Portable User Interface">
+            	<Run Text="Museo Viviente"/>
+            </TextBlock>
+        </Canvas>
+        <Canvas HorizontalAlignment="Left" Height="538" Margin="0,232,0,0" Grid.Row="1" VerticalAlignment="Top" Width="480" Background="White">
+            <Canvas Height="83" Canvas.Left="10" Canvas.Top="10" Width="460">
+                <Canvas Height="31" Width="460" Background="#FFC2175B">
+                    <TextBlock x:Name="textBlock" Canvas.Left="10" TextWrapping="Wrap" Canvas.Top="4">
+                    	<Run Text="Teléfono"/>
+                    	<Run Text=":"/>
+                    </TextBlock>
+                </Canvas>
+                <Canvas Height="52" Canvas.Top="31" Width="460">
+                    <TextBlock x:Name="textBlock1" Canvas.Left="10" TextWrapping="Wrap" Text="+52 (222) 232 5005" Foreground="#FF890E4F" Canvas.Top="10" FontSize="24"/>
+                </Canvas>
+                <Canvas Height="33" Canvas.Left="417" Canvas.Top="40" Width="33">
+                    <Canvas.Background>
+                        <ImageBrush Stretch="Uniform" ImageSource="/Assets/Tiles/Iconos/phone.png"/>
+                    </Canvas.Background>
+                    <Button x:Name="button" Content="Button" Canvas.Top="-16" Height="64" Width="67" Canvas.Left="-18" Background="Red" Opacity="0" Click="button_Click"/>
+                </Canvas>
+            </Canvas>
+
+            <Canvas Height="105" Canvas.Left="10" Canvas.Top="98" Width="460">
+                <Canvas Height="31" Width="460" Background="#FFC2175B">
+                    <TextBlock x:Name="textBlock3" Canvas.Left="10" TextWrapping="Wrap" Canvas.Top="4" FontFamily="Portable User Interface">
+                    	<Run Text="Horario"/>
+                    	<Run Text=":"/>
+                    </TextBlock>
+                </Canvas>
+                <Canvas Height="74" Canvas.Top="31" Width="460">
+                    <TextBlock x:Name="textBlock4" Canvas.Left="10" TextWrapping="Wrap" Text="Martes a Sábado" Foreground="#FF890E4F" Canvas.Top="10" FontSize="24" FontFamily="Portable User Interface" FontWeight="Bold"/>
+                    <TextBlock x:Name="textBlock5" Canvas.Left="10" TextWrapping="Wrap" Text="10:00 a 18:00 hrs" Foreground="#FF890E4F" Canvas.Top="42" FontSize="21.333" FontFamily="Portable User Interface"/>
+                </Canvas>
+                <Canvas Height="33" Canvas.Left="417" Canvas.Top="52" Width="33">
+                    <Canvas.Background>
+                        <ImageBrush Stretch="Uniform" ImageSource="/Assets/Tiles/Iconos/marker1.png"/>
+                    </Canvas.Background>
+                    <Button x:Name="btnMapas" Content="Button" Canvas.Top="-16" Height="64" Width="67" Canvas.Left="-18" Background="Red" Opacity="0" Click="btnMapas_Click"/>
+                </Canvas>
+            </Canvas>
+
+            <Canvas Height="239" Canvas.Left="10" Canvas.Top="208" Width="460">
+                <Canvas Height="31" Width="460" Background="#FFC2175B">
+                    <TextBlock x:Name="textBlock6" Canvas.Left="10" TextWrapping="Wrap" Text="Descripción:" Canvas.Top="4"/>
+                </Canvas>
+                <Canvas Height="208" Canvas.Top="31" Width="460">
+                    <TextBlock x:Name="textBlock7" Canvas.Left="10" TextWrapping="Wrap" Text="Un lugar lleno de aventura y aprendizaje con más de 70 especies de distinas partes del mundo." Foreground="#FF890E4F" Canvas.Top="10" FontSize="24" FontFamily="Portable User Interface" Width="440" Height="269"/>
+                </Canvas>
+            </Canvas>
+
+            <Canvas Height="83" Canvas.Left="10" Canvas.Top="445" Width="460">
+                <Canvas Height="31" Width="460" Background="#FFC2175B">
+                    <TextBlock x:Name="textBlock8" Canvas.Left="10" TextWrapping="Wrap" Text="Social:" Canvas.Top="4" FontFamily="Portable User Interface"/>
+                </Canvas>
+                <Canvas Height="52" Canvas.Top="31" Width="460"/>
+                <Canvas Height="33" Canvas.Left="417" Canvas.Top="40" Width="33">
+                    <Canvas.Background>
+                        <ImageBrush Stretch="Fill" ImageSource="/Assets/Tiles/Iconos/www.png"/>
+                    </Canvas.Background>
+                    <Button x:Name="btnPagina" Content="Button" Canvas.Top="-1" Height="34" Width="34" Canvas.Left="0" Background="Red" Opacity="0" Click="btnPagina_Click"/>
+                </Canvas>
+                <Canvas Height="100" Canvas.Left="357" Canvas.Top="73" Width="100"/>
+                <Canvas Height="33" Canvas.Left="379" Canvas.Top="40" Width="33">
+                    <Canvas.Background>
+                        <ImageBrush Stretch="Fill" ImageSource="/Assets/Tiles/Iconos/facebook.png"/>
+                    </Canvas.Background>
+
+                </Canvas>
+                <Canvas Height="33" Canvas.Left="341" Canvas.Top="40" Width="33">
+                    <Canvas.Background>
+                        <ImageBrush Stretch="Fill" ImageSource="/Assets/Tiles/Iconos/twitter.png"/>
+                    </Canvas.Background>
+
+                </Canvas>
+
+            </Canvas>
+        </Canvas>
+        <Canvas HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="480" Background="#FFC2175B"/>
+        
+    </Grid>
+
+</phone:PhoneApplicationPage>

@@ -1,0 +1,121 @@
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\Bin\Debug\PruebaMuseo.dll
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\Bin\Debug\PruebaMuseo.pdb
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\Bin\Debug\resources.pri
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\Bin\Debug\AppxManifest.xml
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\Bin\Debug\PruebaMuseo.build.appxrecipe
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\Bin\Debug\AppManifest.xaml
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\Bin\Debug\PruebaMuseo_Debug_AnyCPU.xap
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\App.g.cs
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\MainPage.g.cs
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\PruebaMuseo.g.resources
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\PruebaMuseo.Resources.AppResources.resources
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\PruebaMuseo.csproj.GenerateResource.Cache
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\PruebaMuseo.dll
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\PruebaMuseo.pdb
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\priconfig.xml
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\priconfig.xml.intermediate
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\layout.resfiles
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\layout.resfiles.intermediate
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\resources.resfiles
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\resources.resfiles.intermediate
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\pri.resfiles
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\pri.resfiles.intermediate
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\qualifiers.txt
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\qualifiers.txt.intermediate
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\ProjectArchitectures.txt
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\MDILProjectFiles.xml
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\XapCacheFile.xml
+c:\users\zamgu\documents\visual studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\Inicio.g.cs
+C:\Users\ZamGu\Documents\Visual Studio 2015\Projects\PruebaMuseo\PruebaMuseo\obj\Debug\MuseoAmparo.g.cs
+F:\PruebaMuseo\PruebaMuseo\Bin\Debug\Assets\ApplicationIcon.png
+F:\PruebaMuseo\PruebaMuseo\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+F:\PruebaMuseo\PruebaMuseo\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+F:\PruebaMuseo\PruebaMuseo\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+F:\PruebaMuseo\PruebaMuseo\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+F:\PruebaMuseo\PruebaMuseo\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+F:\PruebaMuseo\PruebaMuseo\Bin\Debug\PruebaMuseo.dll
+F:\PruebaMuseo\PruebaMuseo\Bin\Debug\PruebaMuseo.pdb
+F:\PruebaMuseo\PruebaMuseo\Bin\Debug\resources.pri
+F:\PruebaMuseo\PruebaMuseo\Bin\Debug\AppxManifest.xml
+F:\PruebaMuseo\PruebaMuseo\Bin\Debug\PruebaMuseo.build.appxrecipe
+F:\PruebaMuseo\PruebaMuseo\Bin\Debug\Properties\WMAppManifest.xml
+F:\PruebaMuseo\PruebaMuseo\Bin\Debug\AppManifest.xaml
+F:\PruebaMuseo\PruebaMuseo\Bin\Debug\PruebaMuseo_Debug_AnyCPU.xap
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\App.g.cs
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\Inicio.g.cs
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\MainPage.g.cs
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\MuseoAmparo.g.cs
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\PruebaMuseo.g.resources
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\PruebaMuseo.Resources.AppResources.resources
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\PruebaMuseo.csproj.GenerateResource.Cache
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\PruebaMuseo.dll
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\PruebaMuseo.pdb
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\priconfig.xml
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\priconfig.xml.intermediate
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\layout.resfiles
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\layout.resfiles.intermediate
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\resources.resfiles
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\resources.resfiles.intermediate
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\pri.resfiles
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\pri.resfiles.intermediate
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\qualifiers.txt
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\qualifiers.txt.intermediate
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\ProjectArchitectures.txt
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\MDILProjectFiles.xml
+F:\PruebaMuseo\PruebaMuseo\obj\Debug\XapCacheFile.xml
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Bin\Debug\PruebaMuseo.dll
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Bin\Debug\PruebaMuseo.pdb
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Bin\Debug\resources.pri
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Bin\Debug\AppxManifest.xml
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Bin\Debug\PruebaMuseo.build.appxrecipe
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Bin\Debug\AppManifest.xaml
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\Bin\Debug\PruebaMuseo_Debug_AnyCPU.xap
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\App.g.cs
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\Inicio.g.cs
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\MainPage.g.cs
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\PruebaMuseo.g.resources
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\PruebaMuseo.Resources.AppResources.resources
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\PruebaMuseo.csproj.GenerateResource.Cache
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\PruebaMuseo.dll
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\PruebaMuseo.pdb
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\priconfig.xml
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\priconfig.xml.intermediate
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\layout.resfiles
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\layout.resfiles.intermediate
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\resources.resfiles
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\resources.resfiles.intermediate
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\pri.resfiles
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\pri.resfiles.intermediate
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\qualifiers.txt
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\qualifiers.txt.intermediate
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\ProjectArchitectures.txt
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\MDILProjectFiles.xml
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\XapCacheFile.xml
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\MuseosArte\BarrioArtista.g.cs
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\MuseosArte\MuseoAmparo.g.cs
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\MuseosArte\CCU.g.cs
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\MuseosArte\TecDeMonterrey.g.cs
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\MuseosArte\FototecaJuan.g.cs
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\MuseosArte\GaleriaArte.g.cs
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\MuseosInteractivos\MuseoImagina.g.cs
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\MuseosInteractivos\Planetario.g.cs
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\MuseosInteractivos\MuseoViviente.g.cs
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\MuseosInteractivos\Talavera.g.cs
+C:\Users\alex_\Documents\Visual Studio 2015\PruebaMuseo\PruebaMuseo\obj\Debug\MuseosHistoria\Serdan.g.cs

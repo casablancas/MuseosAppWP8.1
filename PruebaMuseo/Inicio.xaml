@@ -1,0 +1,249 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="PruebaMuseo.Inicio"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="White">
+
+        <phone:Pivot Title="" FontFamily="Portable User Interface">
+            <phone:Pivot.Background>
+                <ImageBrush Stretch="Uniform" ImageSource="/Assets/Tiles/Iconos/Museoa-02.jpg"/>
+            </phone:Pivot.Background>
+            <!--Elemento Pivot uno-->
+
+            <phone:PivotItem Header="" Margin="0,24,0,0" FontFamily="Portable User Interface" Background="White">
+                <Grid Background="White">
+                    <Canvas HorizontalAlignment="Left" Height="137" VerticalAlignment="Top" Width="480" Margin="0,-5,0,0" Background="#FF890E4F">
+                        <TextBlock TextWrapping="Wrap" Canvas.Left="10" Canvas.Top="20" Width="153" FontSize="24" FontFamily="Portable User Interface">
+    						<Run Text="MuseosApp"/>
+                        </TextBlock>
+                        <TextBlock TextWrapping="Wrap" Canvas.Left="197" Canvas.Top="72" Width="93" FontSize="36" FontFamily="Portable User Interface" Text="ARTE"/>
+                        <Canvas Height="100" Canvas.Left="370" Canvas.Top="20" Width="100">
+                            <Canvas.Background>
+                                <ImageBrush Stretch="Uniform" ImageSource="/Assets/Tiles/Iconos/Museos Archivos 01-12.png"/>
+                            </Canvas.Background>
+                        </Canvas>
+                    </Canvas>
+
+                    <Canvas HorizontalAlignment="Left" Height="634" Margin="0,137,0,-5" VerticalAlignment="Top" Width="480" Background="White">
+                        <StackPanel Height="634" Width="480" Background="White">
+                            <Canvas Height="100">
+                                <Ellipse Height="80" Canvas.Left="28" Stroke="White" Canvas.Top="10" Width="80">
+                                    <Ellipse.Fill>
+                                        <ImageBrush Stretch="Fill" ImageSource="/Assets/Tiles/ImagenesArte/museAmparo.jpg"/>
+                                    </Ellipse.Fill>
+                                </Ellipse>
+                                <TextBlock x:Name="textBlock" Canvas.Left="158" TextWrapping="Wrap" Text="Museo Amparo" Canvas.Top="10" Foreground="#FF890E4F"/>
+                                <TextBlock x:Name="textBlock2" Canvas.Left="158" TextWrapping="Wrap" Text="Cerrado" Canvas.Top="42" Foreground="#FFC2175B"/>
+                                <TextBlock x:Name="textBlock3" Canvas.Left="158" TextWrapping="Wrap" Text="______________________________________" Canvas.Top="69" Foreground="#FFE0E0E0" Width="322"/>
+                                <Button x:Name="button" Content="Button" Canvas.Left="10" Canvas.Top="10" Height="80" Width="460" Opacity="0" Click="btnAmparo"/>
+                            </Canvas>
+
+                            <Canvas Height="100">
+                                <Ellipse Height="80" Canvas.Left="28" Stroke="White" Canvas.Top="10" Width="80">
+                                    <Ellipse.Fill>
+                                        <ImageBrush Stretch="Fill" ImageSource="/Assets/Tiles/ImagenesArte/barrio_artista.jpg"/>
+                                    </Ellipse.Fill>
+                                </Ellipse>
+                                <TextBlock x:Name="textBlock4" Canvas.Left="158" TextWrapping="Wrap" Text="Barrio del Artista" Canvas.Top="10" Foreground="#FF890E4F"/>
+                                <TextBlock x:Name="textBlock5" Canvas.Left="158" TextWrapping="Wrap" Text="Cerrado" Canvas.Top="42" Foreground="#FFC2175B"/>
+                                <TextBlock x:Name="textBlock6" Canvas.Left="158" TextWrapping="Wrap" Text="______________________________________" Canvas.Top="69" Foreground="#FFE0E0E0"/>
+                                <Button x:Name="button2" Content="Button" Canvas.Left="10" Canvas.Top="10" Height="80" Width="460" Opacity="0" Click="btnBarrioArtista"/>
+                            </Canvas>
+
+                            <Canvas Height="100">
+                                <Ellipse Height="80" Canvas.Left="28" Stroke="White" Canvas.Top="10" Width="80">
+                                    <Ellipse.Fill>
+                                        <ImageBrush Stretch="Fill" ImageSource="/Assets/Tiles/ImagenesArte/complejo_hc9dgu.jpg"/>
+                                    </Ellipse.Fill>
+                                </Ellipse>
+                                <TextBlock x:Name="textBlock44" Canvas.Left="158" TextWrapping="Wrap" Text="Complejo Cultural Universitario" Canvas.Top="10" Foreground="#FF890E4F"/>
+                                <TextBlock x:Name="textBlock55" Canvas.Left="158" TextWrapping="Wrap" Text="Cerrado" Canvas.Top="42" Foreground="#FFC2175B"/>
+                                <TextBlock x:Name="textBlock66" Canvas.Left="158" TextWrapping="Wrap" Text="______________________________________" Canvas.Top="69" Foreground="#FFE0E0E0"/>
+                                <Button x:Name="button22" Content="Button" Canvas.Top="10" Height="80" Width="460" Opacity="0" Click="btnComplejo"/>
+                            </Canvas>
+
+                            <Canvas Height="100">
+                                <Ellipse Height="80" Canvas.Left="28" Stroke="White" Canvas.Top="10" Width="80">
+                                    <Ellipse.Fill>
+                                        <ImageBrush Stretch="Fill" ImageSource="/Assets/Tiles/ImagenesArte/tec_fvitvm.jpg"/>
+                                    </Ellipse.Fill>
+                                </Ellipse>
+                                <TextBlock x:Name="textBlock43" Canvas.Left="158" TextWrapping="Wrap" Text="Museo Tec. de Monterrey" Canvas.Top="10" Foreground="#FF890E4F"/>
+                                <TextBlock x:Name="textBlock25" Canvas.Left="158" TextWrapping="Wrap" Text="Cerrado" Canvas.Top="42" Foreground="#FFC2175B"/>
+                                <TextBlock x:Name="textBlock61" Canvas.Left="158" TextWrapping="Wrap" Text="______________________________________" Canvas.Top="69" Foreground="#FFE0E0E0"/>
+                                <Button x:Name="button21" Content="Button" Canvas.Left="10" Canvas.Top="10" Height="80" Width="460" Opacity="0" Click="btnTecDeMonterrey"/>
+                            </Canvas>
+
+                            <Canvas Height="100">
+                                <Ellipse Height="80" Canvas.Left="28" Stroke="White" Canvas.Top="10" Width="80">
+                                    <Ellipse.Fill>
+                                        <ImageBrush Stretch="Fill" ImageSource="/Assets/Tiles/ImagenesArte/fototeca_ywz6wh.jpg"/>
+                                    </Ellipse.Fill>
+                                </Ellipse>
+                                <TextBlock x:Name="textBlock42" Canvas.Left="158" TextWrapping="Wrap" Text="Fototeca Juan C. Méndez" Canvas.Top="10" Foreground="#FF890E4F"/>
+                                <TextBlock x:Name="textBlock52" Canvas.Left="158" TextWrapping="Wrap" Text="Cerrado" Canvas.Top="42" Foreground="#FFC2175B"/>
+                                <TextBlock x:Name="textBlock60" Canvas.Left="158" TextWrapping="Wrap" Text="______________________________________" Canvas.Top="69" Foreground="#FFE0E0E0"/>
+                                <Button x:Name="button20" Content="Button" Canvas.Left="10" Canvas.Top="10" Height="80" Width="460" Opacity="0" Click="btnFototeca"/>
+                            </Canvas>
+
+                            <Canvas Height="100">
+                                <Ellipse Height="80" Canvas.Left="28" Stroke="White" Canvas.Top="10" Width="80">
+                                    <Ellipse.Fill>
+                                        <ImageBrush Stretch="Fill" ImageSource="/Assets/Tiles/ImagenesArte/galeria_arte_palacio.jpg"/>
+                                    </Ellipse.Fill>
+                                </Ellipse>
+                                <TextBlock x:Name="textBlock49" Canvas.Left="158" TextWrapping="Wrap" Text="Galería de Arte del Palacio" Canvas.Top="10" Foreground="#FF890E4F"/>
+                                <TextBlock x:Name="textBlock58" Canvas.Left="158" TextWrapping="Wrap" Text="Cerrado" Canvas.Top="42" Foreground="#FFC2175B"/>
+                                <TextBlock x:Name="textBlock67" Canvas.Left="158" TextWrapping="Wrap" Text="______________________________________" Canvas.Top="69" Foreground="#FFE0E0E0"/>
+                                <Button x:Name="btnGaleriaArte" Content="Button" Canvas.Left="10" Canvas.Top="10" Height="80" Width="460" Opacity="0" Click="button_Click"/>
+                            </Canvas>
+
+                        </StackPanel>
+                    </Canvas>
+                </Grid>
+            </phone:PivotItem>
+            <!-- Fin Elemento Pivot UNO-->
+
+            <!--Elemento Pivot DOS-->
+            <phone:PivotItem Header="" Margin="0,24,0,0" FontFamily="Portable User Interface">
+                <phone:PivotItem.Background>
+                    <ImageBrush Stretch="Fill"/>
+                </phone:PivotItem.Background>
+                <Grid>
+                    <Canvas HorizontalAlignment="Left" Height="137" VerticalAlignment="Top" Width="480" Margin="0,-5,0,0" Background="#FF890E4F">
+                        <TextBlock TextWrapping="Wrap" Canvas.Left="10" Canvas.Top="20" Width="153" FontSize="24" FontFamily="Portable User Interface">
+    						<Run Text="MuseosApp"/>
+                        </TextBlock>
+                        <TextBlock TextWrapping="Wrap" Canvas.Left="128" Canvas.Top="72" Width="237" FontSize="36" FontFamily="Portable User Interface" Text="INTERACTIVO"/>
+                        <Canvas Height="100" Canvas.Left="370" Canvas.Top="20" Width="100">
+                            <Canvas.Background>
+                                <ImageBrush Stretch="Fill" ImageSource="/Assets/Tiles/Iconos/Museos Archivos 01-05.png"/>
+                            </Canvas.Background>
+                        </Canvas>
+                    </Canvas>
+
+                    <Canvas HorizontalAlignment="Left" Height="634" Margin="0,132,0,0" VerticalAlignment="Top" Width="480" Background="White">
+                        <StackPanel Height="634" Width="480" Background="White">
+                            <Canvas Height="100">
+                                <Ellipse Height="80" Canvas.Left="28" Stroke="White" Canvas.Top="10" Width="80">
+                                    <Ellipse.Fill>
+                                        <ImageBrush Stretch="Fill" ImageSource="/Assets/Tiles/ImagenesInteractivo/imagina_g8x20s.jpg"/>
+                                    </Ellipse.Fill>
+                                </Ellipse>
+                                <TextBlock x:Name="textBlock7" Canvas.Left="158" TextWrapping="Wrap" Text="Museo Imagina" Canvas.Top="10" Foreground="#FF890E4F"/>
+                                <TextBlock x:Name="textBlock8" Canvas.Left="158" TextWrapping="Wrap" Text="Cerrado" Canvas.Top="42" Foreground="#FFC2175B"/>
+                                <TextBlock x:Name="textBlock9" Canvas.Left="155" TextWrapping="Wrap" Text="______________________________________" Canvas.Top="69" Foreground="#FFE0E0E0" Width="336" FontFamily="Portable User Interface"/>
+                                <Button x:Name="btnImagina" Content="Button" Canvas.Left="10" Canvas.Top="10" Height="80" Width="460" Opacity="0" Click="btnImagina_Click"/>
+                            </Canvas>
+                            <Canvas Height="100">
+                                <Ellipse Height="80" Canvas.Left="28" Stroke="White" Canvas.Top="10" Width="80">
+                                    <Ellipse.Fill>
+                                        <ImageBrush Stretch="Fill" ImageSource="/Assets/planetario.jpg"/>
+                                    </Ellipse.Fill>
+                                </Ellipse>
+                                <TextBlock x:Name="textBlock10" Canvas.Left="158" TextWrapping="Wrap" Text="Planetario" Canvas.Top="10" Foreground="#FF890E4F"/>
+                                <TextBlock x:Name="textBlock11" Canvas.Left="158" TextWrapping="Wrap" Text="Cerrado" Canvas.Top="42" Foreground="#FFC2175B"/>
+                                <TextBlock x:Name="textBlock99" Canvas.Left="155" TextWrapping="Wrap" Text="______________________________________" Canvas.Top="69" Foreground="#FFE0E0E0" Width="336" FontFamily="Portable User Interface"/>
+                                <Button x:Name="btnPlanetario" Content="Button" Canvas.Left="10" Canvas.Top="10" Height="80" Width="460" Opacity="0" Click="btnPlanetario_Click" FontFamily="Portable User Interface" Foreground="#FFE0E0E0"/>
+                            </Canvas>
+                            <Canvas Height="100">
+                                <Ellipse Height="80" Canvas.Left="28" Stroke="White" Canvas.Top="10" Width="80">
+                                    <Ellipse.Fill>
+                                        <ImageBrush Stretch="Fill" ImageSource="/Assets/Tiles/ImagenesInteractivo/viviente_sszzy9.jpg"/>
+                                    </Ellipse.Fill>
+                                </Ellipse>
+                                <TextBlock x:Name="textBlock111" Canvas.Left="158" TextWrapping="Wrap" Text="Museo Viviente" Canvas.Top="10" Foreground="#FF890E4F"/>
+                                <TextBlock x:Name="textBlock132" Canvas.Left="158" TextWrapping="Wrap" Text="Cerrado" Canvas.Top="42" Foreground="#FFC2175B"/>
+                                <TextBlock x:Name="textBlock922" Canvas.Left="155" TextWrapping="Wrap" Text="______________________________________" Canvas.Top="69" Foreground="#FFE0E0E0" Width="336" FontFamily="Portable User Interface"/>
+                                <Button x:Name="btnViviente" Content="Button" Canvas.Left="10" Canvas.Top="10" Height="80" Width="460" Opacity="0" Click="btnViviente_Click" FontFamily="Portable User Interface"/>
+                            </Canvas>
+                            <Canvas Height="100">
+                                <Ellipse Height="80" Canvas.Left="28" Stroke="White" Canvas.Top="10" Width="80">
+                                    <Ellipse.Fill>
+                                        <ImageBrush Stretch="Fill" ImageSource="/Assets/Tiles/ImagenesInteractivo/talavera_uamv9z.jpg"/>
+                                    </Ellipse.Fill>
+                                </Ellipse>
+                                <TextBlock x:Name="textBlock101" Canvas.Left="158" TextWrapping="Wrap" Text="Museo Interactivo de Talavera" Canvas.Top="10" Foreground="#FF890E4F"/>
+                                <TextBlock x:Name="textBlock133" Canvas.Left="158" TextWrapping="Wrap" Text="Cerrado" Canvas.Top="42" Foreground="#FFC2175B"/>
+                                <TextBlock x:Name="textBlock921" Canvas.Left="155" TextWrapping="Wrap" Text="______________________________________" Canvas.Top="69" Foreground="#FFE0E0E0" Width="336" FontFamily="Portable User Interface"/>
+                                <Button x:Name="btnTalavera" Content="Button" Canvas.Left="10" Canvas.Top="10" Height="80" Width="460" Opacity="0" Click="btnTalavera_Click" FontFamily="Portable User Interface"/>
+                            </Canvas>
+                            <Canvas Height="100"/>
+                            <Canvas Height="100"/>
+                        </StackPanel>
+                    </Canvas>
+                </Grid>
+            </phone:PivotItem>
+            <!-- Fin Elemento Pivot DOS-->
+
+            <!--Elemento Pivot TRES-->
+            <phone:PivotItem Header="" Margin="0,24,0,0" FontFamily="Portable User Interface">
+                <phone:PivotItem.Background>
+                    <ImageBrush Stretch="Fill"/>
+                </phone:PivotItem.Background>
+                <Grid>
+                    <Canvas HorizontalAlignment="Left" Height="137" VerticalAlignment="Top" Width="480" Margin="0,-5,0,0" Background="#FF890E4F">
+                        <TextBlock TextWrapping="Wrap" Canvas.Left="10" Canvas.Top="20" Width="153" FontSize="24" FontFamily="Portable User Interface">
+    						<Run Text="MuseosApp"/>
+                        </TextBlock>
+                        <TextBlock TextWrapping="Wrap" Canvas.Left="158" Canvas.Top="72" Width="165" FontSize="36" FontFamily="Portable User Interface" Text="HISTORIA"/>
+                        <Canvas Height="100" Canvas.Left="370" Canvas.Top="20" Width="100">
+                            <Canvas.Background>
+                                <ImageBrush Stretch="Uniform" ImageSource="/Assets/Tiles/Iconos/Museos Archivos 01-06.png"/>
+                            </Canvas.Background>
+                        </Canvas>
+                    </Canvas>
+
+                    <Canvas HorizontalAlignment="Left" Height="634" Margin="0,132,0,0" VerticalAlignment="Top" Width="480" Background="White">
+                        <StackPanel Height="634" Width="480" Background="White">
+                            <Canvas Height="100">
+                                <Ellipse Height="80" Canvas.Left="28" Stroke="White" Canvas.Top="10" Width="80">
+                                    <Ellipse.Fill>
+                                        <ImageBrush Stretch="Fill" ImageSource="/Assets/HermanosSerdan.png"/>
+                                    </Ellipse.Fill>
+                                </Ellipse>
+                                <TextBlock x:Name="textBlock13" Canvas.Left="158" TextWrapping="Wrap" Text="Casa de los Hermanos Serdán" Canvas.Top="10" Foreground="#FF890E4F"/>
+                                <TextBlock x:Name="textBlock14" Canvas.Left="158" TextWrapping="Wrap" Text="Cerrado" Canvas.Top="42" Foreground="#FFC2175B"/>
+                                <TextBlock x:Name="textBlock15" Canvas.Left="155" TextWrapping="Wrap" Text="______________________________________" Canvas.Top="69" Foreground="#FFE0E0E0" Width="336" FontFamily="Portable User Interface"/>
+                                <Button x:Name="btnSerdan" Content="Button" Canvas.Left="10" Canvas.Top="10" Height="80" Width="460" Opacity="0" Click="btnSerdan_Click"/>
+                            </Canvas>
+                            <Canvas Height="100">
+                                <Ellipse Height="80" Canvas.Left="28" Stroke="White" Canvas.Top="10" Width="80">
+                                    <Ellipse.Fill>
+                                        <ImageBrush Stretch="Fill" ImageSource="/Assets/HermanosSerdan.png"/>
+                                    </Ellipse.Fill>
+                                </Ellipse>
+                                <TextBlock x:Name="textBlock16" Canvas.Left="158" TextWrapping="Wrap" Text="Barrio del Artista" Canvas.Top="10" Foreground="#FF890E4F"/>
+                                <TextBlock x:Name="textBlock17" Canvas.Left="158" TextWrapping="Wrap" Text="Cerrado" Canvas.Top="42" Foreground="#FFC2175B"/>
+                                <TextBlock x:Name="textBlock29" Canvas.Left="155" TextWrapping="Wrap" Text="______________________________________" Canvas.Top="69" Foreground="#FFE0E0E0" Width="336" FontFamily="Portable User Interface"/>
+                                <Button x:Name="button6" Content="Button" Canvas.Left="10" Canvas.Top="10" Height="80" Width="460" Opacity="0" Click="button_Click" FontFamily="Portable User Interface"/>
+                            </Canvas>
+                            <Canvas Height="100"/>
+                            <Canvas Height="100"/>
+                            <Canvas Height="100"/>
+                            <Canvas Height="100"/>
+                        </StackPanel>
+                    </Canvas>
+                </Grid>
+            </phone:PivotItem>
+            <!-- Fin Elemento Pivot TRES-->
+
+        </phone:Pivot>
+
+        <Canvas HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="480" Background="#FFC2175B"/>
+
+    </Grid>
+
+</phone:PhoneApplicationPage>

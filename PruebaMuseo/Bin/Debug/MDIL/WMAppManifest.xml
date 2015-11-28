@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2014/deployment" AppPlatformVersion="8.1">
+  <DefaultLanguage xmlns="" code="en-US" />
+  <App xmlns="" ProductID="{41329e98-4d90-4636-8c25-6e77dd0a2f85}" Title="MuseosApp" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="PruebaMuseo author" Description="Aplicación para visualizar los museos de la ciudad en sus distintas categorías." SDOptOut="false" BackUpOptOut="false" Publisher="PruebaMuseo" PublisherID="{b3d0eba0-85c0-4d93-8072-1a40f7a2a7da}">
+    <IconPath IsRelative="true" IsResource="false">icon.png</IconPath>
+    <Capabilities>
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
+      <Capability Name="ID_CAP_MEDIALIB_PLAYBACK" />
+      <Capability Name="ID_CAP_SENSORS" />
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+      <Capability Name="ID_CAP_LOCATION" />
+    </Capabilities>
+    <Tasks>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" ActivationPolicy="Resume" />
+    </Tasks>
+    <Tokens>
+      <PrimaryToken TokenID="PruebaMuseoToken" TaskName="_default">
+        <TemplateCycle>
+          <SmallImageURI IsRelative="true" IsResource="false">icon.png</SmallImageURI>
+          <Title>Museos App</Title>
+          <Photo01ImageURI IsRelative="true" IsResource="false">barrio_artista.jpg</Photo01ImageURI>
+          <Photo02ImageURI IsRelative="true" IsResource="false">complejo_hc9dgu.jpg</Photo02ImageURI>
+          <Photo03ImageURI IsRelative="true" IsResource="false">HermanosSerdan_cwhp4k.png</Photo03ImageURI>
+          <Photo04ImageURI IsRelative="true" IsResource="false">fototeca_ywz6wh.jpg</Photo04ImageURI>
+          <Photo05ImageURI IsRelative="true" IsResource="false">galeria_arte_palacio.jpg</Photo05ImageURI>
+          <Photo06ImageURI IsRelative="true" IsResource="false"></Photo06ImageURI>
+          <Photo07ImageURI IsRelative="true" IsResource="false"></Photo07ImageURI>
+          <Photo08ImageURI IsRelative="true" IsResource="false"></Photo08ImageURI>
+          <Photo09ImageURI IsRelative="true" IsResource="false"></Photo09ImageURI>
+          <Count>0</Count>
+          <HasLarge>True</HasLarge>
+          <DeviceLockImageURI IsRelative="true" IsResource="false"></DeviceLockImageURI>
+        </TemplateCycle>
+      </PrimaryToken>
+    </Tokens>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
+  </App>
+</Deployment>
+<!-- WPSDK Version 8.1.15116 -->
